@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">QuizMaster</string>
+    <string name="left_button"></string>
+    <string name="right_button"></string>
+    <string name="food_quiz">Food Quiz</string>
+    <string name="duke_quiz">Duke Quiz</string>
+    <string name="mainquiz">create new quiz for questions</string>
+    <string name="score">Score:</string>
+    <string name="final_score">Final Score:</string>
+    <string name="try_again">Try Again?</string>
+</resources>

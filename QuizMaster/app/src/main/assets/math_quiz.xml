@@ -1,0 +1,29 @@
+<quiz>
+    <title>math quiz</title>
+    <file>math_quiz.xml</file>
+    <question>
+        <text>the integral of 1/x</text>
+        <answer correct="true">ln(x)+c</answer>
+        <answer correct="false">exp(-2)</answer>
+    </question>
+    <question>
+        <text>is xy'+y = 0 a linear ODE?</text>
+        <answer correct="true">true</answer>
+        <answer correct="false">false</answer>
+    </question>
+    <question>
+        <text>is y'=y an exact ODE?</text>
+        <answer correct="true">false</answer>
+        <answer correct="false">true</answer>
+    </question>
+    <question>
+        <text>a second order ODE has a dimension of</text>
+        <answer correct="true">2</answer>
+        <answer correct="false">3</answer>
+    </question>
+    <question>
+        <text>another name for the kernal is</text>
+        <answer correct="true">null space</answer>
+        <answer correct="false">row space</answer>
+    </question>
+</quiz>

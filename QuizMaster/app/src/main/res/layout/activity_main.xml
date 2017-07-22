@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="edu.duke.compsci290.quizmaster.MainActivity"
+    android:weightSum="1">
+
+    <android.support.v7.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/main"
+        app:layoutManager="LinearLayoutManager">
+
+    </android.support.v7.widget.RecyclerView>
+
+    <!--<Button-->
+        <!--android:text="Easy Quiz"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:id="@+id/question"-->
+        <!--android:layout_weight="0.03"-->
+        <!--android:onClick="easyClick"/>-->
+
+    <!--<Button-->
+        <!--android:text="Hard Quiz"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:id="@+id/questionII"-->
+        <!--android:layout_weight="0.03"-->
+        <!--android:onClick="hardClick"/>-->
+</LinearLayout>

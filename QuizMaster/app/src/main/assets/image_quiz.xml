@@ -1,0 +1,18 @@
+<quiz>
+    <title>image quiz</title>
+    <file>image_quiz.xml</file>
+    <question>
+        <text>select the dessert</text>
+        <answer correct="true">brownie.jpg</answer>
+        <answer correct="false">classic_burger.jpg</answer>
+        <answer correct="false">fiesta_platter.jpg</answer>
+        <answer correct="false">smoothie.jpg</answer>
+    </question>
+    <question>
+        <text>select the soup</text>
+        <answer correct="true">french_onion_soup.jpg</answer>
+        <answer correct="false">garden_buffet.jpg</answer>
+        <answer correct="false">house_salad.jpg</answer>
+        <answer correct="false">iced_tea.jpg</answer>
+    </question>
+</quiz>

@@ -1,0 +1,109 @@
+<quiz>
+    <title>duke quiz</title>
+    <file>duke_quiz.xml</file>
+    <question>
+        <text>Duke University's mascot?</text>
+        <answer correct="true">blue devil</answer>
+        <answer correct="false">tarheel</answer>
+        <answer correct="false">judge</answer>
+        <answer correct="false">engineers</answer>
+        <answer correct="false">spartan</answer>
+        <answer correct="false">hurricane</answer>
+        <answer correct="false">dolphin</answer>
+        <answer correct="false">boilermakers</answer>
+        <answer correct="false">falcons</answer>
+        <answer correct="false">wildcats</answer>
+        <answer correct="false">cardinals</answer>
+        <answer correct="false">fighting irish</answer>
+        <answer correct="false">orange</answer>
+        <answer correct="false">wolfpack</answer>
+        <answer correct="false">bulldogs</answer>
+    </question>
+    <question>
+        <text>what year was Duke founded?</text>
+        <answer correct="true">1838</answer>
+        <answer correct="false">1832</answer>
+        <answer correct="false">1854</answer>
+        <answer correct="false">1898</answer>
+        <answer correct="false">1817</answer>
+        <answer correct="false">1818</answer>
+        <answer correct="false">1856</answer>
+        <answer correct="false">1875</answer>
+        <answer correct="false">1899</answer>
+        <answer correct="false">1874</answer>
+        <answer correct="false">1842</answer>
+        <answer correct="false">1836</answer>
+        <answer correct="false">1822</answer>
+        <answer correct="false">1834</answer>
+        <answer correct="false">1877</answer>
+    </question>
+    <question>
+        <text>which is not a food venue at Duke?</text>
+        <answer correct="true">the edge</answer>
+        <answer correct="false">pitchforks</answer>
+        <answer correct="false">west union</answer>
+        <answer correct="false">the loop</answer>
+        <answer correct="false">ginger and soy</answer>
+        <answer correct="false">tandoor</answer>
+        <answer correct="false">il ferno</answer>
+        <answer correct="false">sprout</answer>
+        <answer correct="false">farmstead</answer>
+        <answer correct="false">blue express</answer>
+        <answer correct="false">krafthouse</answer>
+        <answer correct="false">the parlour</answer>
+        <answer correct="false">cocoa cinnamon</answer>
+        <answer correct="false">devine's</answer>
+        <answer correct="false">red mango</answer>
+    </question>
+    <question>
+        <text>who's the tallest basketball player at Duke?</text>
+        <answer correct="true">Vrankovic</answer>
+        <answer correct="false">Giles</answer>
+        <answer correct="false">Jeter</answer>
+        <answer correct="false">Allen</answer>
+        <answer correct="false">Jones</answer>
+        <answer correct="false">Jefferson</answer>
+        <answer correct="false">Kennard</answer>
+        <answer correct="false">Pagliuca</answer>
+        <answer correct="false">Besser</answer>
+        <answer correct="false">Robinson</answer>
+        <answer correct="false">Jackson</answer>
+        <answer correct="false">Tatum</answer>
+        <answer correct="false">Bolden</answer>
+        <answer correct="false">DeLaurier</answer>
+        <answer correct="false">White</answer>
+    </question>
+    <question>
+        <text>which is not a duke library?</text>
+        <answer correct="true">walter</answer>
+        <answer correct="false">perkins</answer>
+        <answer correct="false">ford</answer>
+        <answer correct="false">bostock</answer>
+        <answer correct="false">rubenstein</answer>
+        <answer correct="false">music</answer>
+        <answer correct="false">lilly</answer>
+        <answer correct="false">goodson</answer>
+        <answer correct="false">medical center</answer>
+        <answer correct="false">marine lab</answer>
+        <answer correct="false">duke kunshan</answer>
+        <answer correct="false">lsc</answer>
+    </question>
+    <question>
+        <text>who is the first duke basketball player to play in four final fours?</text>
+        <answer correct="true">Greg Koubek</answer>
+        <answer correct="false">Christian Laettner</answer>
+        <answer correct="false">Jay Bilas</answer>
+        <answer correct="false">Shane Battier</answer>
+        <answer correct="false">Grayson Allen</answer>
+        <answer correct="false">Grant Hill</answer>
+        <answer correct="false">Bobby Hurley</answer>
+        <answer correct="false">JJ Redick</answer>
+        <answer correct="false">Cherokee Parks</answer>
+        <answer correct="false">Sheldon Williams</answer>
+        <answer correct="false">Rodney Hood</answer>
+        <answer correct="false">Jabari Parker</answer>
+        <answer correct="false">Mason Plumlee</answer>
+        <answer correct="false">Roshown McLeod</answer>
+        <answer correct="false">JD Simpson</answer>
+    </question>
+</quiz>
